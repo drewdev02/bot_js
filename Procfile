@@ -1,1 +1,1 @@
-worker: python query.data.py
+worker: node bot.js
